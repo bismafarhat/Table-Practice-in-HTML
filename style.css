@@ -1,0 +1,12 @@
+#style{
+    border-collapse: collapse;
+    box-sizing: 50px;
+    width: 600px;
+    text-align: center;
+}
+#item{
+    border-collapse: collapse;
+}
+/* #table{
+    box-sizing: 50px;
+} */
